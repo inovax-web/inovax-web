@@ -1,6 +1,6 @@
 
 
-![Image](https://github.com/user-attachments/assets/4796b3b3-5ff3-469a-9c5c-cea82d2f25cd)
+![Image](https://github.com/user-attachments/assets/fe2ec1ad-a628-4533-a941-7e76cff048df)
 
   <div align="center">
   <h2 style="color:#a26f44; font-weight:bold;">Inovação é o nosso ponto de partida.</h2>
