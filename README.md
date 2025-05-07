@@ -16,17 +16,7 @@
 
 <div>
 
-### 👨‍💻 Quem somos
-
-A **Inovax Desenvolvimento Web LTDA** é especializada em soluções digitais — unindo **design de impacto** com **tecnologia eficiente**.
-
-> Sites, interfaces e experiências que realmente funcionam.
-
-🌐 Sites institucionais & landing pages  
-🎨 Identidades visuais e kits digitais  
-📱 Social media e branding  
-💻 Front-end moderno (HTML, CSS, JS, React)  
-📦 Projetos sob medida
+> A **Inovax Desenvolvimento Web LTDA** é especializada em soluções digitais — unindo **design de impacto** com **tecnologia eficiente**.
 
 </div>
 
