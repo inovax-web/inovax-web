@@ -1,7 +1,6 @@
-<!-- INOVAX README - aesthetic edition -->
 
 <div align="center">
-  <img src="./img/LOGO-DOCUMENT---GREEN.png" width="620px" style="margin-bottom: -20rem" alt="Inovax Logo" />
+  <img src="./img/LOGO-DOCUMENT---GREEN.png" width="620px" style="margin-bottom: -20 rem" alt="Inovax Logo" />
   
   <h2 style="color:#a26f44; font-weight:bold;">Inovação é o nosso ponto de partida.</h2>
   
