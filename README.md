@@ -8,7 +8,6 @@
   <br />
   
   <img src="https://img.shields.io/badge/Front--End-Design%20%7C%20Dev-a26f44?style=flat-square&logo=codepen&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Feito%20com-❤️-d8d5c6?style=flat-square"/>
   <img src="https://img.shields.io/badge/Desde-2025-c5a57e?style=flat-square"/>
 </div>
 
