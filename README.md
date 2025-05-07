@@ -1,7 +1,7 @@
 <!-- INOVAX README - by ChatGPT -->
 
 <div align="center">
-  <img src="https://via.placeholder.com/120x120/1d1d13/ffffff?text=IN" width="120px" alt="Inovax Logo" />
+  <img src="./img/LOGO-DOCUMENT---GREEN.png" width="420px" style="margin-bottom:-12rem" alt="Inovax Logo" />
   <h1 style="color:#1d1d13">INOVAX</h1>
   <strong style="color:#a26f44">Inovação é o nosso ponto de partida.</strong>
   <br /><br />
@@ -28,11 +28,11 @@ A **Inovax Desenvolvimento Web LTDA** é uma empresa especializada em soluções
 
 ### 🌟 Projetos em destaque
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
+| Projeto             | Descrição                                  | Tecnologias                |
+| ------------------- | ------------------------------------------ | -------------------------- |
 | [Site Empresa X](#) | Website institucional moderno e responsivo | `HTML` `Sass` `JavaScript` |
-| [Landing Page Y](#) | Página de alta conversão para campanha | `React` `Tailwind` |
-| [Dashboard Z](#) | Painel de controle visual para clientes | `Vue` `Figma` |
+| [Landing Page Y](#) | Página de alta conversão para campanha     | `React` `Tailwind`         |
+| [Dashboard Z](#)    | Painel de controle visual para clientes    | `Vue` `Figma`              |
 
 ---
 
@@ -46,8 +46,8 @@ A **Inovax Desenvolvimento Web LTDA** é uma empresa especializada em soluções
 
 ### 📫 Entre em contato
 
-- 📧 inovax.dev@gmail.com  
-- 📷 [@inovax.web](https://instagram.com/inovax.web)  
+- 📧 inovax.dev@gmail.com
+- 📷 [@inovax.web](https://instagram.com/inovax.web)
 - 🧑‍💼 Em breve: [inovax.com.br](#)
 
 ---
