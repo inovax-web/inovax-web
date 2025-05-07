@@ -14,7 +14,7 @@
 
 ---
 
-<div align="center">
+<div>
 
 ### 👨‍💻 Quem somos
 
@@ -34,44 +34,31 @@ A **Inovax Desenvolvimento Web LTDA** é especializada em soluções digitais �
 
 <div align="center">
 
-### 🌟 Projetos em destaque
+## ⚙️ Tecnologias no nosso kit diário
 
-| Projeto             | Descrição                                  | Tecnologias                |
-| ------------------- | ------------------------------------------ | -------------------------- |
-| [Site Empresa X](#) | Website institucional moderno e responsivo | `HTML` `Sass` `JavaScript` |
-| [Landing Page Y](#) | Página de alta conversão para campanha     | `React` `Tailwind`         |
-| [Dashboard Z](#)    | Painel de controle visual para clientes    | `Vue` `Figma`              |
+  <div style="display: flex; justify-content: space-around;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" alt="Photoshop" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma" />
 
-</div>
+  </div>
+
+---
+
+## 📞 Vamos nos conectar?
+
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](<https://api.whatsapp.com/send?phone=5579988318550&text=%F0%9F%90%91%7C%20Ol%C3%A1%2C%20vim%20pelo%20instagram%20e%20gostaria%20de%20saber%20mais%20sobre%3A%20%20(Fale%20o%20servi%C3%A7o%20do%20seu%20interesse%20)>)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryanofc_rpm/)
 
 ---
 
 <div align="center">
-
-### 📁 Organização do GitHub
-
-🔸 Repositórios públicos para portfólio  
-🔸 Estrutura de projetos reais e componentes reutilizáveis  
-🔸 Atualizações frequentes e colaborativas
-
-</div>
-
----
-
-<div align="center">
-
-### 📫 Entre em contato
-
-📧 inovax.dev@gmail.com  
-📷 [@inovax.web](https://instagram.com/inovax.web)  
-🧑‍💼 Em breve: [inovax.com.br](#)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://via.placeholder.com/400x1/1d1d13/1d1d13" />
+  <img src="./img/LOGO-DOCUMENT---GREEN.png" width="200px" style="margin-bottom: -6rem"  />
   <br/>
   <sub><i style="color:#514b31">Feito com dedicação e propósito por Inovax • 2025</i></sub>
 </div>
