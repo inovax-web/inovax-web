@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/badge/Desde-2025-c5a57e?style=flat-square"/>
 </div>
 
----
-
 <div>
 
 > A **Inovax Desenvolvimento Web LTDA** é especializada em soluções digitais — unindo **design de impacto** com **tecnologia eficiente**.
