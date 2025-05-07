@@ -1,6 +1,7 @@
 
 <div align="center">
-  <img src="./img/LOGO-DOCUMENT---GREEN.png" width="620px" style="margin-bottom: -20 rem" alt="Inovax Logo" />
+![Image](https://github.com/user-attachments/assets/4796b3b3-5ff3-469a-9c5c-cea82d2f25cd)
+
   
   <h2 style="color:#a26f44; font-weight:bold;">Inovação é o nosso ponto de partida.</h2>
   
