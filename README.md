@@ -21,7 +21,7 @@
 
 <div align="center">
 
-## ⚙️ Tecnologias no nosso kit diário
+## kit Diário
 
   <div style="display: flex; justify-content: space-around;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
