@@ -58,7 +58,8 @@ A **Inovax Desenvolvimento Web LTDA** é especializada em soluções digitais �
 ---
 
 <div align="center">
-  <img src="./img/LOGO-DOCUMENT---GREEN.png" width="200px" style="margin-bottom: -6rem"  />
+  <img src="./img/MASCOTE PELUDO.png
+" width="200px" style="margin-bottom: -6rem"  />
   <br/>
   <sub><i style="color:#514b31">Feito com dedicação e propósito por Inovax • 2025</i></sub>
 </div>
